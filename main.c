@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-   printf("Hello, Galaxy!"); //person 1
+	// dit is feature 1 lekkeer maannn
    return 0;
 }
